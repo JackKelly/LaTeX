@@ -1,7 +1,8 @@
 #% Do not delete the line below; configure depends on this
-#  \DeclareLaTeXClass[sig-alternate]{article (ACM SIG-ALTERNATE)}
+#  \DeclareLaTeXClass[sig-alternate]{article (SIG-ALTERNATE)}
 # SIG-ALTERNATE sig-alternate textclass definition file.
-# Author : Uwe Stöhr
+#
+# Based on acmsiggraph.layout by Uwe Stöhr
 #
 # We use sig-alternate.cls, the SIG class file that can be
 # downloaded from
